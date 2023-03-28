@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDaD4P0EZ6N2BsCxLVA37ma/si/TTDUDvS6JRLpxOjPkexVso5stAldJLFs/C2xeX5s/jXqyTS4cK6PHybTloA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\srban\\OneDrive\\Escritorio\\ataque y defensas\\ataque y defensas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\srban\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.15\\microsoft.netcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\srban\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\srban\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.15\\microsoft.aspnetcore.app.runtime.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\bin\Debug\net6.0\ataque y defensas.exe
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\bin\Debug\net6.0\ataque y defensas.deps.json
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\bin\Debug\net6.0\ataque y defensas.runtimeconfig.json
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\bin\Debug\net6.0\ataque y defensas.dll
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\bin\Debug\net6.0\ataque y defensas.pdb
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\obj\Debug\net6.0\ataque y defensas.csproj.AssemblyReference.cache
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\obj\Debug\net6.0\ataque y defensas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\obj\Debug\net6.0\ataque y defensas.AssemblyInfoInputs.cache
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\obj\Debug\net6.0\ataque y defensas.AssemblyInfo.cs
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\obj\Debug\net6.0\ataque y defensas.csproj.CoreCompileInputs.cache
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\obj\Debug\net6.0\ataque y defensas.dll
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\obj\Debug\net6.0\refint\ataque y defensas.dll
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\obj\Debug\net6.0\ataque y defensas.pdb
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\obj\Debug\net6.0\ataque y defensas.genruntimeconfig.cache
+C:\Users\srban\OneDrive\Escritorio\ataque y defensas\obj\Debug\net6.0\ref\ataque y defensas.dll
